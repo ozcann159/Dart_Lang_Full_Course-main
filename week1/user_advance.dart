@@ -26,4 +26,16 @@ void main() {
   int user2Money = 500;
 
  user2Money = user2Money - user1Money.toInt();
+
+ //Odev 2
+
+  int total = 100;
+  int musteri1 = 20;
+  print("Saat 10'da halı saha toplam müsteri sayisi $musteri1");
+  int musteri2 = 50;
+  print("Saat 10'da 50 kisilik yer ayırmak isteyen müsteri");
+  int totalKapasite = musteri1 + musteri2;
+  print("Halı sahanın güncel kapasitesi $totalKapasite");
+  
+
 }
