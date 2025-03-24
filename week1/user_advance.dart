@@ -29,7 +29,7 @@ void main() {
 
  //Odev 2
 
-  int total = 100;
+  // int total = 100;
   int musteri1 = 20;
   print("Saat 10'da halı saha toplam müsteri sayisi $musteri1");
   int musteri2 = 50;
