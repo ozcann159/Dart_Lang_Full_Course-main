@@ -7,3 +7,9 @@ class User2 {
     _id = id;
   }
 }
+
+extension User2ControlExtension on User2{
+  void controlName(){
+    print(name);
+  }
+}
